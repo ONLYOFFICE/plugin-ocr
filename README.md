@@ -1,3 +1,7 @@
+## Information
+
+This repository is an archive of plugin-ocr. Now it moved to the marketplace repository [onlyoffice.github.io](https://github.com/ONLYOFFICE/onlyoffice.github.io/tree/master/sdkjs-plugins/content).
+
 ## Overview
 
 Recognize text from pictures and screenshots and insert it into your documents with multilingual  OCR. 
